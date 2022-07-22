@@ -7,6 +7,7 @@
 # View
 * 웹 사이트의 로직을 담당(요청이 들어오면 요청을 처리)
 * Model과 Template 사이를 연결
+* Template으로 데이터 넘길 때 context(사전형)에 담아서 세번째 인수로 넘겨주기
 
 # Template
 * 웹 사이트의 화면 구성 담당(큰 틀)(html)
