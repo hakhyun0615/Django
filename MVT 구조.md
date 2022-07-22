@@ -12,7 +12,7 @@
 * 웹 사이트의 화면 구성 담당(큰 틀)(html)
 * 매번 바뀌는 동적인 화면을 구성(바뀌는 내용들)(template language)
 * Rendering(렌더링)을 통해 HttpResponse 객체로 변환됨 ex) render(request,'foods/index.html')
-* <img width="773" alt="image" src="https://user-images.githubusercontent.com/88610333/180343661-cc3c3018-6146-4152-bcf0-598ec21a6611.png">
+<img width="773" alt="image" src="https://user-images.githubusercontent.com/88610333/180343661-cc3c3018-6146-4152-bcf0-598ec21a6611.png">
 
 # 템플릿 언어
 * Django의 템플릿에서 사용 할 수 있는 특별한 문법
