@@ -1,4 +1,4 @@
-# Jump to Django Study Notes
+# Django
 This repository contains notes and project work based on the book "점프 투 장고".
 
 ## Contents
